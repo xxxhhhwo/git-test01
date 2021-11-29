@@ -11,7 +11,8 @@ public class GitTest {
         System.out.println("hot fix test");
         System.out.println("2021.11.29.10:39");
         System.out.println("2021/11/29/10:40");
-
+        System.out.println("github修改---gitee更新");
+       
 
         /*
 
